@@ -7,3 +7,6 @@
 ## Week 2
 * Voorbereiding 2e les met REST API : ? uur.
 * Opvolgen studenten : ? uur.
+
+
+# Totale duur : 4,5 uur
