@@ -1,2 +1,2 @@
-# MI3
-Mobile &amp; Internet 3, Odisee
+# Web & Mobile
+Web & Mobile, Odisee
