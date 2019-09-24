@@ -1,13 +1,19 @@
 # Logboek Web & Mobile - Steven Ophalvens
-## Week 1 - 4,5 uur
+## Week 1 - 6 uur
 * Aanpassingen op Toledo : 2 uur.
-* Voorbereiding lessen : 2 uur.
+* Voorbereiding lessen : 3,5 uur.
   * nakijken php : 0,5 uur.
   * aanpassen voorbeeld php : 1 uur.
-  * aanpassen presentaties : 0,5 uur.
+  * aanpassen presentaties : 1,5 uur.
+  * opmaken oefeningen : 0,5 uur.
 * Nakijken Xampp installatie : 0,5 uur.
-* Voorbereiding REST API : ? uur.
-* Opvolgen studenten : ? uur.
+
+## Week 2 - 5,5 uur
+* Voorbereiding REST API : 2 uur.
+* Voorbereiding presentatie : 1 uur.
+* Voorbereiding voorbeelden prepared statements : 0,5 uur.
+* Voorbereiding oefeningen : 1 uur.
+* Opvolgen studenten : 1 uur.
 
 
-# Totale duur : 3,5 uur
+# Totale duur : 11,5 uur
